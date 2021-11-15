@@ -1,3 +1,4 @@
+//15.    Write a program to count the simple interest.//
 #include<stdio.h>
 int main()
 {

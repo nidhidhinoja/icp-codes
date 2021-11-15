@@ -1,3 +1,4 @@
+//5.    Input two numbers and prints its square and cube.//
 #include<stdio.h>
 int main()
 {

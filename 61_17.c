@@ -1,3 +1,4 @@
+//17.    Input a Number of Chairs and its Total Cost and Prints the Cost of Each chair.//
 #include<stdio.h>
 int main()
 {

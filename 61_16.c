@@ -1,3 +1,4 @@
+//16.    Input a Rupees and prints its value converted into Dollar.//
 #include<stdio.h>
 int main()
 {

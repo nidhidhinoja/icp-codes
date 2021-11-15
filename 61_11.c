@@ -1,3 +1,4 @@
+//11.    Verify the formula t=((v+s)+(l-m)*l)//
 #include<stdio.h>
 int main()
 {
@@ -10,6 +11,9 @@ int main()
 	scanf("%d",&l);
 	printf("enter the value of m");
 	scanf("%d",&m);
+	
 	t=((v+s)+(l-m)*l);
+	
 	printf("\n t=%d",t);
+	return 0;
 }
